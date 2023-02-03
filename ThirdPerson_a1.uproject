@@ -1,0 +1,13 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{2D53BD58-4943-0A73-0BFA-FAABC60CFD8A}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "ThirdPerson_a1",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	]
+}
