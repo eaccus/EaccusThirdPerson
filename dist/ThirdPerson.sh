@@ -5,5 +5,5 @@ echo "#######################PWD####################"
 pwd
 echo "#######################PWD####################"
 ls -lt "$UE_PROJECT_ROOT"
-chmod +x "$UE_PROJECT_ROOT/ThirdPerson/Binaries/Linux/ThirdPerson"
-"$UE_PROJECT_ROOT/ThirdPerson/Binaries/Linux/ThirdPerson" ThirdPerson "$@" 
+chmod +x "./Binaries/Linux/ThirdPerson"
+"./Binaries/Linux/ThirdPerson" ThirdPerson "$@" 
