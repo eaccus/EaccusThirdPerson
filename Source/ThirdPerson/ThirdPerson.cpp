@@ -1,4 +1,2 @@
-#include "CoreTypes.h"
-#include "Modules/ModuleManager.h"
-
+#include "CoreTypes.h" 
 IMPLEMENT_PRIMARY_GAME_MODULE(FDefaultModuleImpl, ThirdPerson, "ThirdPerson");
